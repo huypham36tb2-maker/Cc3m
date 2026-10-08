@@ -1,0 +1,9 @@
+const templates = [
+  { name: "Cloud Glow", file: "./assets/standard.gif" },
+  { name: "Cyber", file: "./assets/standard-2.gif" },
+  { name: "Dark Glitch", file: "./assets/standard-3.gif" },
+  { name: "Pink Storm", file: "./assets/standard-4.gif" },
+  { name: "Fire / Ember", file: "./assets/standard-5.gif" },
+  { name: "Black Texture", file: "./assets/standard-6.gif" },
+  { name: "Red Motion", file: "./assets/standard-7.gif" }
+];
